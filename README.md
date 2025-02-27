@@ -1,6 +1,6 @@
 # Seahorse Adventure Game 🏆🌊
 
-![Seahorse Adventure](image_2025-02-27_142623125.png)
+![Seahorse Adventure](Screenshot2025-02-27142544.png)
 
 Welcome to **Seahorse Adventure Game**, using JavaScript and HTML5 Canvas! 🐠🌊
 
