@@ -8,7 +8,7 @@ Welcome to **Seahorse Adventure Game**, using JavaScript and HTML5 Canvas! 🐠�
 Dive into an underwater world in a side scrolling Shoot 'em up. Navigate through obstacles, collect treasures, test your reflexes and enjoy a visually appealing ocean adventure!
 
 ## 🚀 Features
-- 🎨 Beautiful ocean-themed graphics
+- 🎨 Beautiful 2D ocean-themed graphics
 - 🔥 Power-ups to enhance your experience
 - 📱 Playable on desktop and mobile browsers
 
