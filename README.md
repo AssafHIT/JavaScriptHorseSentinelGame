@@ -1,4 +1,4 @@
-# Seahorse Adventure Game
+# Seahorse Adventure Game 🏆🌊
 
 ![Seahorse Adventure](image_2025-02-27_142623125.png)
 
